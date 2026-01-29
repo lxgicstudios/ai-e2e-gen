@@ -1,5 +1,10 @@
 # ai-e2e-gen
 
+[![npm version](https://img.shields.io/npm/v/ai-e2e-gen.svg)](https://www.npmjs.com/package/ai-e2e-gen)
+[![npm downloads](https://img.shields.io/npm/dm/ai-e2e-gen.svg)](https://www.npmjs.com/package/ai-e2e-gen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate Playwright (or Cypress) e2e tests from a URL, component file, or description.
 
 ## Install
