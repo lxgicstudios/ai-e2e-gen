@@ -1,5 +1,5 @@
 {
-  "name": "ai-e2e-gen",
+  "name": "@lxgicstudios/ai-e2e-gen",
   "version": "1.0.0",
   "description": "AI-powered E2E test generator - Playwright/Cypress tests from user flows with GPT",
   "main": "dist/index.js",
