@@ -15,31 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
+    "automation",
+    "browser-testing",
     "claude",
-    "llm",
-    "openai",
-    "gpt",
+    "cli",
+    "cypress",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
     "e2e",
     "end-to-end",
-    "playwright",
-    "cypress",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
     "testing",
-    "developer-tools",
-    "cli",
-    "automation",
-    "typescript",
-    "nodejs",
-    "browser-testing",
-    "qa"
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-e2e-gen#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-e2e-gen"
+    "url": "https://github.com/LXGIC-Studios/ai-e2e-gen"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-e2e-gen/issues"
