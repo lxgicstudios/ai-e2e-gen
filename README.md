@@ -53,7 +53,7 @@ Ai e2e gen is a software development tool designed to help developers solve spec
 
 ## How Does Ai e2e gen Work?
 
-This tool provides feature 1,feature 2. It integrates seamlessly with modern development workflows.
+This tool provides feature 1,feature 2. It integrates smoothly with modern development workflows.
 
 ## Quick Start
 
